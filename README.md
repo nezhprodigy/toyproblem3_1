@@ -24,7 +24,7 @@ Enter Benefits: 10000
 Net Salary: 54000
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MOZILLA PUBLIC LICENSE - see the LICENSE file for details.
 
 Please note that this is just a sample README.md file, and you should modify it to suit your specific needs. If you need further assistance, feel free to ask!
 
