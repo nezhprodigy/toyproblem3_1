@@ -1,9 +1,11 @@
 Net Salary Calculator
 This program calculates an individual’s net salary by taking inputs of their basic salary and benefits. The program then calculates the individual’s gross salary by adding the basic salary and benefits. Finally, it calculates the net salary by subtracting the tax amount from the gross salary.
 
-Prerequisites
+Prerequisites;
 JavaScript
+
 Usage
+
 Clone this repository to your local machine.
 
 Open the terminal and navigate to the cloned repository.
